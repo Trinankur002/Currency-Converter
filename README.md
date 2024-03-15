@@ -1,6 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+
 # Getting Started
+![Screenshot_20240315-132837](https://github.com/Trinankur002/Currency-Converter/assets/75271494/a7a154e7-c537-4f2d-a630-6641a2587b4e)
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
